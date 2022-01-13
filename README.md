@@ -40,7 +40,7 @@
 <h3 align="left">Bug Hunting Profiles:</h3>
 <p align="left">
 <a href="https://bugcrowd.com/mysteriousB0y" target="blank"><img align="center" src="https://www.bugcrowd.com/wp-content/uploads/2019/06/Press-Kit-Transparent-Hex-B.png" alt="sgarai007" height="35" width="50" /></a>
-<a href="https://hackerone.com/mysteriousb0y" target="blank"><img align="center" src="https://i0.wp.com/abovethecrowd.com/wp-content/uploads/2014/05/hackerone.png?ssl=1" alt="@mysteriousb0y" height="35" width="40" /></a>
+<a href="https://hackerone.com/mysteriousb0y" target="blank"><img align="center" src="https://i0.wp.com/abovethecrowd.com/wp-content/uploads/2014/05/hackerone.png?ssl=1" alt="@mysteriousb0y" height="40" width="40" /></a>
 <a href="https://app.intigriti.com/profile/mysteriousb0y" target="blank"><img align="center" src="https://yt3.ggpht.com/ytc/AKedOLS_PUM-FbRJgRbDOEZBoSi1nXOVmSvcPAFk-mAS=s900-c-k-c0x00ffffff-no-rj" alt="@mysteriousb0y" height="40" width="40" /></a>
 </p>
 
