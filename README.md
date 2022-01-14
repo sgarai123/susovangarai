@@ -11,7 +11,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sgarai007?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=sgarai007)
 
-- 🔭 I’m currently working on **Synopsys** as Security Services Associate
+- 🔭 I’m currently working in **Synopsys** as Security Services Associate
 
 - 🌱 I’m currently learning **API, iOS Pentesting**
 
